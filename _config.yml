@@ -85,7 +85,10 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repo: https://github.com/dmarg/dmarg.github.io.git
+  branch:
+  message:
 
 # SASS
 node_sass:
