@@ -87,7 +87,7 @@ exclude_generator:
 deploy:
   type: github
   repo: https://github.com/dmarg/dmarg.github.io.git
-  branch:
+  branch: master
   message:
 
 # SASS
