@@ -4,7 +4,7 @@ categories: []
 date: 2015-02-01 15:09:00
 ---
 
-Test JavaScript Code Block:
+JavaScript:
 
 ```js
 function $initHighlight(block, flags) {
