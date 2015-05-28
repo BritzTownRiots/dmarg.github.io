@@ -1,7 +1,6 @@
 title: Code Test
 tags: [code]
 categories: []
-date: 2015-02-01 15:09:00
 ---
 
 JavaScript:

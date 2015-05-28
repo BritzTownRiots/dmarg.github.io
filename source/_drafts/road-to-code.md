@@ -1,5 +1,6 @@
 title: road to code
-tags: [Fullstack Academy]
-categories: []
+tags:
+ - Fullstack Academy
+categories:
 ---
 
