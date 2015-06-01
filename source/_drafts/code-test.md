@@ -1,11 +1,13 @@
-title: Code Test
-tags: [code]
-categories: []
+title: "Code Test"
+date: 2015-05-27 21:26:48
+tags: [code, test]
+categories: [code]
 ---
+
 
 JavaScript:
 
-```js
+{% codeblock lang:js test.js %}
 function $initHighlight(block, flags) {
   try {
     if (block.className.search(/\bno\-highlight\b/) != -1)
@@ -22,7 +24,7 @@ function $initHighlight(block, flags) {
   }
   console.log(Array.every(classes, Boolean));
 }
-```
+{% endcodeblock %}
 
 BASH:
 
