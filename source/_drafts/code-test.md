@@ -1,9 +1,8 @@
 title: "Code Test"
 date: 2015-05-27 21:26:48
-tags: [code, test]
-categories: [code]
+tags: 
+categories: 
 ---
-
 
 JavaScript:
 

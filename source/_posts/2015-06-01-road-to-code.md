@@ -1,0 +1,24 @@
+title: "Road to Code"
+date: 2015-06-01 23:18:34
+coverImage: nyc.png
+tags:
+  - Fullstack Academy
+  - JavaScript
+categories:
+  - JavaScript
+---
+
+
+Around this time last year I was about half way through my time at Fullstack Academy in NYC. The bootcamp experience was truly one of the best experience I have done. Now, I am working full time as fullstack web developer. This is my story of how I got here.
+
+I moved to Washington, DC in 2010 and before that I was in New Orleans with AmeriCorps rebuilding homes that were destroyed by Hurricane Katrina. In DC, I ended up working in the accounting department of two different preschools from 2010 until I went to Fullstack in 2014. I liked accounting and thought maybe I would get my CPA. So I decided to sign up for accounting 1 and 2 at UDC (University of the District of Columbia). After completing those courses, I realized that ultimately accounting was not for me. I yearned for something else that held my attention and I was much more interested in.
+
+During the Summer of 2012, I decided that I did not want to take anymore accounting classes at UDC but had no clue what classes to register to for that fall semester. I felt like my current path was leading me more toward having jobs and I really wanted a career. After a lengthy discussion with a good friend of mine, he convinced me that I should looking into coding. I had some direction and decided to register for Intro to Programming. This class was good but super slow and we basically did nothing but pseudo code for an entire semester. After that I took Computer Science 1 and Computer Science 2 over the next semesters while I still worked full time.
+
+Fall semester 2013, I was newly married and finishing up my Comp Sci 2 class. I was talking with my wife about how much I really enjoyed coding and wanted to go into this field. I talked with UDC about getting a masters in Computer Science since I already have a bachelors degree (Psychology). After discussing wih them and realizing that this will take me 3 to 4 years to complete while I worked full time, I realized that I wanted something more immediate. I did some research and found some web development bootcamps around the country that were usually 3 months and you could come out as a junior developer. The wife and I discussed that this was the best option even though it was a bit nerve racking since I would have to quit my job and move to another city (we live in DC) while I completed the bootcamp.
+
+January of 2014 I decided to dive head first into applying to bootcamps. I studied Ruby and JavaScript to meet the demands of all the admission requirements of the bootcamps I applied to. In total, I applied to 11 and was accepted into 7 of them. This was a bit crazy and I was not expecting to get into as many as I did. I settled on attending Fullstack Academy for multiple reasons. First, Fullstack Academy is a fullstack JavaScript bootcamp. Which means that I would be learning JavaScript to use on the front end and backend. This made a lot of sense for me since I would be diving head first into learning and focusing on one language would be better than having to learn Ruby/Rails plus JavaScript at a Rails heavy bootcamp. Second, Fullstack is in NYC which is very close to DC and I would not need a car. Third, I already had some friends who live in NYC. Fourth, it is New York City and who wouldn't want to try living there for a at least a little bit?
+
+I gave my employer at the time an 8 week notice that I would be leaving in April (2014) and changing my career path to go to a coding bootcamp. They were really receptive and I was so excited to start. April comes, and I can not say enough about how good my experience was at Fullstack Academy. David and Nimit, the co-founders and main instructors while I was there (3rd cohort) were top notch and two of the best teachers that I have come across. They were both very patient, insightful and had a good sense of humor. Also, my fellow classmates were all amazing. We had a blast together learning and hanging out after class. The first 6 weeks of Fullstack was the learning phase and then we had a break week which was much needed. After that we embarked on the project phase for the final 6 weeks of the 13 weeks that we were there. During this time, I made a couple of projects. My personal project Morning Ninja, which was my wife's idea, sends users a text message with the summary of the days weather for their area at the time they select. My group project Job Butler, was job searching organizing tool that I actually used during my job search after I graduated and moved back to DC to search for job.
+
+In October 2014 I accepted a position with Vizuri in the DC area. This was it. This was the end of my road to changing my career, but the start of my journey to continual learning and growing as a developer. That's it. That was my path to now. This blog will be about my adventures in techland.
