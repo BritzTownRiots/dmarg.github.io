@@ -10,10 +10,10 @@ categories:
 ---
 
 
-Choropleth maps are straight up awesome at displaying statistical information for a given area. To paraphrase wikipedia, they are thematic maps which have areas shaded or patterned in proportion to a statistical value for that area. We are going to walk through how to use Google Maps and GeoJSON to display a choropleth map.
+Choropleth maps are straight up awesome at displaying statistical information for a given area. To paraphrase wikipedia, they are thematic maps which have areas shaded or patterned in proportion to a statistical value for that area. We will walk through Google Maps and GeoJSON to create and display a choropleth map.
 
 ###GeoJSON
-The GeoJSON file that you will use has the geometry guidelines for each given area you are displaying plus should have the statistical info you are representing in the properties field of each area. For example, I am using a GeoJSON file that has all the US states and I have added the property of COLI (Cost of Living Index) to each state. The object for Arizona in the array of state objects that I am using looks like this:
+The GeoJSON file will use the geometry guidelines for each given area displayed. Plus, the file should have the statistical info you are going to represent in the properties field of each area. For example, I am using a GeoJSON file that has all the US states and I have added the property of COLI (Cost of Living Index) to each state. The object for Arizona in the array of state objects that I am using looks like this:
 
 {% codeblock GeoJSON File Sample lang:json %}
 {
@@ -90,8 +90,9 @@ function getColor(coli) {
 }
 {% endcodeblock %}
 
+
 ###Adding Listeners for More Styling
-Google Maps has some really cool functionality that allows us to add listeners to each property of our GeoJSON file. We can add mouseover, mouseout, click, and even more. Here is a code example of adding the mouseover and mouseout out functionality.
+Google Maps has cool functionality that allows us to add listeners to each property of our GeoJSON file. We can add mouseover, mouseout, click, and more. Here is an example.
 
 {% codeblock GeoJSON Data Layer lang:js %}
 // Add mouseover and mouse out styling for the GeoJSON State data
