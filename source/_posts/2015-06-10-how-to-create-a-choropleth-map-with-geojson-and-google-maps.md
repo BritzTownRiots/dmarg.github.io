@@ -114,4 +114,5 @@ stateLayer.addListener('mouseout', function(e) {
 Now you should have a choropleth styled Google Map in your html. The plunker I created to show this example is below. Note, I used Angular for the plunker example, but please feel free to use straight JavaScript or whatever JS framework you want.
 
 {% link Plunker Example: http://embed.plnkr.co/lf8rI0UyurUSXPRAzmKt/preview http://embed.plnkr.co/lf8rI0UyurUSXPRAzmKt/preview [Plunker Example] %}
-{% iframe http://embed.plnkr.co/lf8rI0UyurUSXPRAzmKt/preview 725 600 %}
+{% iframe http://embed.plnkr.co/lf8rI0UyurUSXPRAzmKt/preview default 600 %}
+
