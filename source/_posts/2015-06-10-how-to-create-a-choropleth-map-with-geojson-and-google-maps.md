@@ -10,7 +10,9 @@ categories:
 ---
 
 
-Choropleth maps are straight up awesome at displaying statistical information for a given area. To paraphrase wikipedia, they are thematic maps which have areas shaded or patterned in proportion to a statistical value for that area. We will walk through Google Maps and GeoJSON to create and display a choropleth map.
+Choropleth maps are straight up awesome at displaying statistical information for a given area. To paraphrase wikipedia, they are thematic maps which have areas shaded or patterned in proportion to a statistical value for that area. We will walk through Google Maps and GeoJSON to create and display a choropleth map like this one.
+
+{% img img-in-post /post/2015/06/10/how-to-create-a-choropleth-map-with-geojson-and-google-maps/choropleth.jpg choropleth-map %}
 
 ###GeoJSON
 The GeoJSON file will use the geometry guidelines for each given area displayed. Plus, the file should have the statistical info you are going to represent in the properties field of each area. For example, I am using a GeoJSON file that has all the US states and I have added the property of COLI (Cost of Living Index) to each state. The object for Arizona in the array of state objects that I am using looks like this:
