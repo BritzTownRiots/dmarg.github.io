@@ -10,7 +10,7 @@ categories:
 
 
 Around this time last year I was halfway through my time at Fullstack Academy in New York City. Going to Fullstack was truly one of the best experiences I have ever had. 
-
+<!-- more -->
 In 2010, a few years after undergrad, I moved to Washington, DC. Over the course of the next four years I ended up working at the accounting department of two different preschools. I liked accounting and entertained the idea that I would become a CPA. I registered for Accounting 1 and 2 at UDC (University of the District of Columbia). After completing those courses, I realized that ultimately accounting was not for me. I yearned for something else that held my attention and I was much more interested in.
 
 During the Summer of 2012, I finally decided I did not want to take anymore accounting classes but had no clue what classes to register to for that fall semester. I felt like my current path was leading me more toward having jobs and I was really looking for a career path. After a lengthy discussion with a good friend, he convinced me to look into coding. I had some direction and decided to register for an Intro to Programming class. The class hooked me, so I completed Computer Science 1 and 2 over the next semesters while I still worked full time. After each class, I realized more and more that I wanted to go into this field and how much I enjoyed coding.
