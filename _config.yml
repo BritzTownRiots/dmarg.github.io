@@ -4,12 +4,12 @@
 
 # Site
 title: Daniel Margol
-subtitle:
-description:
+subtitle: blog
+description: blog
 author: Daniel Margol
 email: daniel.margol@gmail.com
 language: en
-timezone:
+timezone: America/New_York
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
