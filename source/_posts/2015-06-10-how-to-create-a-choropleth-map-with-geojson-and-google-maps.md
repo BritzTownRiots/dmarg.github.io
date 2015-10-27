@@ -11,7 +11,7 @@ categories:
 
 
 Choropleth maps are straight up awesome at displaying statistical information for a given area. To paraphrase wikipedia, they are thematic maps which have areas shaded or patterned in proportion to a statistical value for that area. We will walk through Google Maps and GeoJSON to create and display a choropleth map like this one.
-
+<!-- more -->
 {% img img-in-post /post/2015/06/10/how-to-create-a-choropleth-map-with-geojson-and-google-maps/choropleth.jpg choropleth-map %}
 
 ###GeoJSON
